@@ -1,0 +1,70 @@
+User-agent: *
+
+Disallow: /
+
+Disallow: /blog/
+
+Disallow: /categories/
+
+Disallow: /tags/floating-frames/
+
+Disallow: /categories/framing/
+
+Disallow: /tags/picture-framing/
+
+Disallow: /tags/
+
+Disallow: /blog/post-5/
+
+Disallow: /categories/application/
+
+Disallow: /categories/architecture/
+
+Disallow: /categories/data/
+
+Disallow: /blog/post-1/
+
+Disallow: /blog/post-2/
+
+Disallow: /blog/post-3/
+
+Disallow: /blog/post-4/
+
+Disallow: /tags/nextjs/
+
+Disallow: /tags/silicon/
+
+Disallow: /categories/software/
+
+Disallow: /tags/software/
+
+Disallow: /tags/tailwind/
+
+Disallow: /categories/technology/
+
+Disallow: /tags/technology/
+
+Disallow: /authors/
+
+Disallow: /contact/
+
+Disallow: /elements/
+
+Disallow: /about/
+
+Disallow: /authors/john-doe/
+
+Disallow: /pages/
+
+Disallow: /privacy-policy/
+
+Disallow: 
+
+Disallow: /authors/sam-wilson/
+
+Disallow: /sections/
+
+Disallow: 
+
+Disallow: /authors/william-jacob/
+
